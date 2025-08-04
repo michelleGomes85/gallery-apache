@@ -126,7 +126,7 @@ Transforme essa galeria na sua:
 
 - 🖼️ Adicione suas próprias fotos em html/images/
 - 🎨 Mude cores, fontes e layout em style.css
-- 🔍 Adicione mais funcionalidades javaScript. No momente só tem um efeito básico.
+- 🔍 Adicione mais funcionalidades javaScript. No momento só tem um efeito básico.
 
 ## 🙌 Contribuição
 
